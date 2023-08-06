@@ -1,1 +1,1 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/dd3f2aab-1328-491c-a802-e6dc0cbfc2d0/deploy-status)](https://app.netlify.com/sites/aardwolf-social/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/afe96566-b992-45a9-ae52-29dc117b9a2c/deploy-status)](https://app.netlify.com/sites/vocal-arithmetic-0b6c72/deploys)
