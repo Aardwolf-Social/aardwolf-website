@@ -30,7 +30,7 @@ theme_data:
   # Icons
   rss: true
   github: "Aardwolf-Social/aardwolf"
-  mastodon: "https://glitch.social/@aardwolf"
+  mastodon: "https://hackers.town/@banjofox2"
 
   # Localization strings
   str_follow_on: "Follow on"
